@@ -20,3 +20,8 @@ move it back: `mv .condarc-- .condarc`
 4. To use above install:
 - Create `/Users/sakella/modulefiles/Python/Mamba/22Feb2023.lua`
 - Add to .zshrc (if not already present) `module use -a /Users/sakella/modulefiles`
+
+
+## Notes from Matt:
+- Modules: https://github.com/mathomp4/m1modulefiles/tree/main and https://github.com/mathomp4/m1modulefiles/blob/main/Core/GCCEnv.lua
+- For Baselibs: https://github.com/mathomp4/m1modulefiles/blob/main/MPI/gcc-gfortran-12.2.0/openmpi-4.1.4/Baselibs/7.8.0.lua
