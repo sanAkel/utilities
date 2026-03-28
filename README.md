@@ -1,2 +1,2 @@
-# local-software
-for installing 
+# Contains
+- Scripts for making life easier: `/sh_scripts`
